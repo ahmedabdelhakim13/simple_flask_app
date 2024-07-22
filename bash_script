@@ -2,7 +2,6 @@
 
 while true
 do
-
 echo "please read the option"
 echo "1) to list all the containers"
 echo "2) to list all the running containers"
